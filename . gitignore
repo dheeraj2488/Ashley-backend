@@ -19,3 +19,4 @@ logs
 # Build outputs
 dist/
 build/
+node_modules/
